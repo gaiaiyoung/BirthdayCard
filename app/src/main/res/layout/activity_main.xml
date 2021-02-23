@@ -30,7 +30,7 @@
         android:textColor="@android:color/white"
         android:textSize="45sp"
         android:layout_alignParentBottom="true"
-        android:layout_alignParentRight="true"
+        android:layout_alignParentRight="false"
         android:padding="16dp"
         android:fontFamily="sans-serif-medium"  />
 
