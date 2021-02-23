@@ -32,8 +32,7 @@
         android:layout_alignParentBottom="true"
         android:layout_alignParentRight="true"
         android:padding="16dp"
-        android:fontFamily="sans-serif-light"  />
-
+        android:fontFamily="sans-serif-medium"  />
 
 
 
